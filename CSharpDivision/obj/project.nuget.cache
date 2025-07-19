@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "LwGNKhUCctQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yihun\\Documents\\c#division\\ConsoleApp1\\ConsoleApp1.csproj",
+=======
+  "dgSpecHash": "MswoYVzpObg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yihun\\Documents\\chapter3\\chapter3.csproj",
+>>>>>>> 6b62e1300a0a8916efc06ea1d373515d434757e1
+  "expectedPackageFiles": [],
+  "logs": []
+}

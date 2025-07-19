@@ -1,0 +1,15 @@
+C:\Users\yihun\Documents\chapter3\bin\Debug\net9.0\chapter3.exe
+C:\Users\yihun\Documents\chapter3\bin\Debug\net9.0\chapter3.deps.json
+C:\Users\yihun\Documents\chapter3\bin\Debug\net9.0\chapter3.runtimeconfig.json
+C:\Users\yihun\Documents\chapter3\bin\Debug\net9.0\chapter3.dll
+C:\Users\yihun\Documents\chapter3\bin\Debug\net9.0\chapter3.pdb
+C:\Users\yihun\Documents\chapter3\obj\Debug\net9.0\chapter3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yihun\Documents\chapter3\obj\Debug\net9.0\chapter3.AssemblyInfoInputs.cache
+C:\Users\yihun\Documents\chapter3\obj\Debug\net9.0\chapter3.AssemblyInfo.cs
+C:\Users\yihun\Documents\chapter3\obj\Debug\net9.0\chapter3.csproj.CoreCompileInputs.cache
+C:\Users\yihun\Documents\chapter3\obj\Debug\net9.0\chapter3.sourcelink.json
+C:\Users\yihun\Documents\chapter3\obj\Debug\net9.0\chapter3.dll
+C:\Users\yihun\Documents\chapter3\obj\Debug\net9.0\refint\chapter3.dll
+C:\Users\yihun\Documents\chapter3\obj\Debug\net9.0\chapter3.pdb
+C:\Users\yihun\Documents\chapter3\obj\Debug\net9.0\chapter3.genruntimeconfig.cache
+C:\Users\yihun\Documents\chapter3\obj\Debug\net9.0\ref\chapter3.dll
