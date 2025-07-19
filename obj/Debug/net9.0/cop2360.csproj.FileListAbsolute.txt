@@ -1,0 +1,4 @@
+C:\Users\yihun\Documents\cop2360\obj\Debug\net9.0\cop2360.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yihun\Documents\cop2360\obj\Debug\net9.0\cop2360.AssemblyInfoInputs.cache
+C:\Users\yihun\Documents\cop2360\obj\Debug\net9.0\cop2360.AssemblyInfo.cs
+C:\Users\yihun\Documents\cop2360\obj\Debug\net9.0\cop2360.csproj.CoreCompileInputs.cache

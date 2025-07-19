@@ -1,0 +1,23 @@
+Key words 
+creating different types - classes
+                         - Field variable in class or instance, also called an attribute
+                         - allow differnt modifiers about access
+
+static(can't change), public(can access it outside) internal new unsafe readonly volatile 
+    these modifiers can be used for methods and attribute/field 
+i can declare multiple fields togethr with smae modifiers different name and separate them with ,(comma)
+Constants - const and all caps is more strong but they are like static readonly
+DateTime is a data type!
+
+- Methods - can return void or something and has parameter 
+has modifiers 
+Local methods method in method
+Over loading methods - i have got differnt / multiple methods with in methods
+meaning i have different version of the paramater but same method 
+everyone will return the same format or nothing at all.
+
+- Constructors- has always has name as the class name 
+- Deconstructors - 
+- Reference - talking about this instance itself - this
+- Properties - they have logic going in them the modify a value passed but by calculating 
+- Index in string 
